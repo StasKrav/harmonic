@@ -1,0 +1,18 @@
+{
+  "name": "chord-detector",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  },
+  "dependencies": {
+    "@audio/beat": "^3.1.0",
+    "@audio/beat-track": "^1.1.0",
+    "@audio/mir-downbeat": "^1.1.5"
+  }
+}
